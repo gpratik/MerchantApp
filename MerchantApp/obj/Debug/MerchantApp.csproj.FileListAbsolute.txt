@@ -1,0 +1,8 @@
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\bin\Debug\MerchantApp.exe.config
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\bin\Debug\MerchantApp.exe
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\bin\Debug\MerchantApp.pdb
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\obj\Debug\MerchantApp.csprojResolveAssemblyReference.cache
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\obj\Debug\MerchantApp.exe
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\obj\Debug\MerchantApp.pdb
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\bin\Debug\MerchantApp.Core.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp\bin\Debug\MerchantApp.Core.pdb

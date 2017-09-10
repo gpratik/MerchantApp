@@ -1,0 +1,14 @@
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\MerchantApp.Tests.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\MerchantApp.Tests.pdb
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\obj\Debug\MerchantApp.Tests.csprojResolveAssemblyReference.cache
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\obj\Debug\MerchantApp.Tests.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\obj\Debug\MerchantApp.Tests.pdb
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\MerchantApp.Core.dll
+c:\users\pgupta\documents\visual studio 2017\Projects\MerchantApp\MerchantApp.Tests\bin\Debug\MerchantApp.Core.pdb
